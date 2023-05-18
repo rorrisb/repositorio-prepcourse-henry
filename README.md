@@ -1,2 +1,2 @@
-# repositorio-prepcourse-henry
-repositorio de prueba para el prepcourse de henry
+este proyecto es una prueba de como crear un repositorio desde github y clonarlo en el escritorio
+roman garcia mercado
